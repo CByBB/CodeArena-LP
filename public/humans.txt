@@ -1,0 +1,11 @@
+/* TEAM */
+Project: CodeArena
+Site: https://codearena-t.vercel.app/
+GitHub: https://github.com/CodeArenaT
+Discord: https://discord.gg/wGAR7QutNH
+
+/* SITE */
+Standards: HTML5, Schema.org JSON-LD
+Software: Next.js, TypeScript, Tailwind CSS
+Language: English
+License: MIT

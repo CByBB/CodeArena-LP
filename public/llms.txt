@@ -1,0 +1,32 @@
+# CodeArena
+
+> Open-source, server-authoritative tank arena for developers. Write JavaScript bots, battle in a live Phaser sim, contribute on GitHub, join Discord.
+
+Site: https://codearena-t.vercel.app/
+GitHub org: https://github.com/CodeArenaT
+Repo: https://github.com/CodeArenaT/CodeArenaT
+Discord: https://discord.gg/wGAR7QutNH
+License: MIT
+
+## Product
+
+- JavaScript bot controllers (synchronous: state in → discrete action out)
+- Phaser bird’s-eye arena with continuous physics in a fixed 10×10 space
+- Server-authoritative ticks, sandboxed execution, WebSocket matches
+- Fog of war, cover, multiplayer rooms / lobby codes
+- Free forever — no paid plan required
+
+## Contribute
+
+- Engine & simulation (TypeScript)
+- Arena UX / Phaser clarity & replays
+- Docs, diagrams, first issues
+
+## Indexable pages
+
+- / — landing overview, how it works, community CTA
+- /about — product explanation and feature list
+- /faq — frequently asked questions
+- /contribute — open-source contribution paths and links
+- /llms.txt — this file
+- /sitemap.xml — crawl map
