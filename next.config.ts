@@ -19,6 +19,24 @@ const nextConfig: NextConfig = {
         ],
       },
       {
+        source: "/robots.txt",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=3600, must-revalidate",
+          },
+        ],
+      },
+      {
+        source: "/sitemap.xml",
+        headers: [
+          {
+            key: "Cache-Control",
+            value: "public, max-age=3600, must-revalidate",
+          },
+        ],
+      },
+      {
         source: "/(.*)\\.(js|css|webp|png|svg|ico|txt|webmanifest)",
         headers: [
           {
